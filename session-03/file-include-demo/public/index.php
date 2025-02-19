@@ -15,6 +15,9 @@
 
 require '../includes/header.php';
 
+require '../../form.php';
+require '../../action.php';
+
 ?>
     <h1>Home Page</h1>
     <p>Index __DIR__ :
